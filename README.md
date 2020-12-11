@@ -1,0 +1,2 @@
+# smash
+small bash terminal
